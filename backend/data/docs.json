@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "Account Creation",
+    "content": "Users can create an account by clicking the Sign Up button on the homepage and providing their email address, password, and basic profile details. A verification link is sent to the registered email, and the account becomes active once the user verifies their email."
+  },
+  {
+    "id": "2",
+    "title": "Password Reset",
+    "content": "Users who forget their password can reset it from the Settings > Security page. After entering the registered email, a reset link will be sent. The link is valid for 15 minutes and users must choose a new password that meets security guidelines, including minimum length and special characters."
+  },
+  {
+    "id": "3",
+    "title": "Refund Policy",
+    "content": "Customers are eligible for a full refund within 30 days of purchase if the product is unused and in its original condition. Refund requests must be submitted through the Help Center form, and processing may take 5 to 7 business days depending on the payment provider."
+  },
+  {
+    "id": "4",
+    "title": "Subscription Cancellation",
+    "content": "Users can cancel their subscription anytime from the Billing section of their profile. The cancellation becomes effective at the end of the current billing cycle. No additional charges will apply after cancellation, but partial refunds for the remaining period are not supported."
+  },
+  {
+    "id": "5",
+    "title": "Data Privacy Policy",
+    "content": "The platform collects only essential user data, such as email address, usage logs, and interaction history, for service improvements. All data is encrypted in transit and at rest. Users can request permanent deletion of their data by submitting a privacy request through the Support page."
+  },
+  {
+    "id": "6",
+    "title": "Customer Support Availability",
+    "content": "Customer support is available 24/7 via email and live chat. Response times vary based on ticket volume but typically range from 2 to 6 hours. Urgent issues related to account security are prioritized automatically by the support queue."
+  },
+  {
+    "id": "7",
+    "title": "Two-Factor Authentication",
+    "content": "Two-factor authentication can be enabled from Settings > Security. Users can choose between SMS-based codes or authenticator apps. If the user loses access to their 2FA device, they must use backup codes generated during setup."
+  },
+  {
+    "id": "8",
+    "title": "File Upload Limits",
+    "content": "Users can upload files up to a maximum size of 50 MB per upload. Supported formats include JPG, PNG, PDF, DOCX, and MP4. Uploads that exceed the file limit will display an error message and will not be stored in the system."
+  },
+  {
+    "id": "9",
+    "title": "App Update Policy",
+    "content": "The platform rolls out updates every two weeks, focusing on feature improvements, bug fixes, and security enhancements. Users on mobile devices will receive update notifications through their respective app stores."
+  },
+  {
+    "id": "10",
+    "title": "Community Guidelines",
+    "content": "Users are expected to maintain respectful interactions across comments, chats, and community posts. Harassment, spam, or sharing harmful content is strictly prohibited. Violations may result in temporary suspension or permanent account termination."
+
+  }
+]
