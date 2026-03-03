@@ -43,11 +43,5 @@
     "id": "9",
     "title": "App Update Policy",
     "content": "The platform rolls out updates every two weeks, focusing on feature improvements, bug fixes, and security enhancements. Users on mobile devices will receive update notifications through their respective app stores."
-  },
-  {
-    "id": "10",
-    "title": "Community Guidelines",
-    "content": "Users are expected to maintain respectful interactions across comments, chats, and community posts. Harassment, spam, or sharing harmful content is strictly prohibited. Violations may result in temporary suspension or permanent account termination."
-
   }
 ]
